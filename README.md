@@ -8,7 +8,7 @@ run npm install( to install node modules for Angular 9)
 
  cd Portfolio > ng serve
 
-run on browswer "localhost:4200"
+run on browser "localhost:4200"
 
 
 
